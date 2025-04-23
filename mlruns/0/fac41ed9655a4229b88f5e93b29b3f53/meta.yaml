@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/project%20ml/mlruns/0/fac41ed9655a4229b88f5e93b29b3f53/artifacts
+end_time: 1745391341756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fac41ed9655a4229b88f5e93b29b3f53
+run_name: rumbling-lamb-345
+run_uuid: fac41ed9655a4229b88f5e93b29b3f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745391324232
+status: 3
+tags: []
+user_id: root

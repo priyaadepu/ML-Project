@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/project%20ml/mlruns/0/d7301be77ec146cda34be762c4289ef2/artifacts
+end_time: 1745390463271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7301be77ec146cda34be762c4289ef2
+run_name: judicious-penguin-93
+run_uuid: d7301be77ec146cda34be762c4289ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745390440412
+status: 3
+tags: []
+user_id: root

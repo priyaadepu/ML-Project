@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/project%20ml/mlruns/0/9703d84edf2a4abf89de73880dbd814f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9703d84edf2a4abf89de73880dbd814f
+run_name: gregarious-fox-484
+run_uuid: 9703d84edf2a4abf89de73880dbd814f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745390188417
+status: 1
+tags: []
+user_id: root
